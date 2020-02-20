@@ -18,7 +18,7 @@ class Relationship extends MapAccess implements RelationshipInterface
     /**
      * @var int
      */
-    protected $id;
+    protected $ id;
 
     /**
      * @var string
